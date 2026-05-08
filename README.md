@@ -1,7 +1,7 @@
 # Hi, I'm Miquel 👋
 
 **Full-stack Developer & Systems Technician**  
-3 Higher Degrees: ASIX, STI, DAW (IOC 2025) | 8 years in IT & logistics | Seeking remote/hybrid roles
+3 Higher Degrees: ASIX, STI, DAW | 8 years in IT & logistics | Seeking remote/hybrid roles
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
